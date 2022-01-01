@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Recipe Book</string>
+    <string name="addBtn">addBtn</string>
+    <string name="enter_the_instructions">Enter Instructions</string>
+    <string name="imageAddButton">addButton</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="ingredients_required">Ingredients</string>
+    <string name="enter_the_ingredients">Enter Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="addbtn">add</string>
+    <string name="food_title">Food Title</string>
+    <string name="image">image</string>
+    <string name="del">del</string>
+</resources>
